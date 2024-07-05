@@ -1,0 +1,16 @@
+{
+  "name": "monge_express_use",
+  "version": "1.0.0",
+  "description": "we will learn how mongo works with express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Rohan Sain",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "mongoose": "^8.4.4"
+  }
+}
