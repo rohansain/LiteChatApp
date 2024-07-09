@@ -31,11 +31,11 @@ This project is a simple REST API for a ChatLite application, similar to WhatsAp
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/chatlite-api.git
+    git clone https://github.com/rohansain/LiteChatApp.git
     ```
 2. Navigate into the project directory:
     ```bash
-    cd chatlite-api
+    cd LiteChatApp
     ```
 3. Install the dependencies:
     ```bash
