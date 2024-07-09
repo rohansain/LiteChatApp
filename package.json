@@ -14,7 +14,9 @@
     "mongodb",
     "mongoose",
     "REST API",
-    "chat application"],
+    "chat application",
+    "codero"
+  ],
   "author": "Rohan Sain",
   "license": "ISC",
   "dependencies": {
