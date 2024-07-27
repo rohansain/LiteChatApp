@@ -8,7 +8,6 @@ This project is a simple REST API for a ChatLite application, similar to WhatsAp
 - Create a new chat message
 - Edit an existing chat message
 - Delete a chat message
-- View a single chat message
 
 ## Technologies Used
 
